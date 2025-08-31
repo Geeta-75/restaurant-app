@@ -10,13 +10,6 @@ Check out the live demo here: [https://geeta-75.github.io/restaurant-app/](https
 
 ---
 
-## 🔹 Screenshots
-
-![Hero Section](images/Screenshot.png)
-*Hero section with menu and booking buttons*
-
----
-
 ## 🔹 Installation
 
 1. Clone the repository:
